@@ -1,0 +1,41 @@
+{
+    "catchAll": {
+        "phrases": [
+            "Извините, непонятно"
+        ]
+    },
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": "https://webhook.site/262c5f65-d8b5-4dfe-9c52-2e39f7c5b415"
+            },
+            "channels": [
+                {
+                    "channelId": "302602-bigtest-302602-yEE-42285879",
+                    "url": "https://webhook.site/262c5f65-d8b5-4dfe-9c52-2e39f7c5b415"
+                },
+                {
+                    "channelId": "302602-bigtest-302602-yEE-43262623",
+                    "url": "https://webhook.site/262c5f65-d8b5-4dfe-9c52-2e39f7c5b415"
+                }
+            ]
+        },
+        "actions": [
+            {
+                "state": "/newNode_0",
+                "action": "start",
+                "enabled": false
+            },
+            {
+                "state": "/newNode_27",
+                "action": "обработка",
+                "enabled": false
+            },
+            {
+                "state": "/newNode_45",
+                "action": "go",
+                "enabled": true
+            }
+        ]
+    }
+}
