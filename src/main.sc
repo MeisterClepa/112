@@ -1,7 +1,7 @@
 
 theme: /
 
-    state: newNode_0
+    state: newNode_0435
         random:
             a: Тестер введи Имя и дату || tts = "Раз раз раз это войс тест", ttsEnabled = true
         image: https://bipbap.ru/wp-content/uploads/2017/08/16.jpg
