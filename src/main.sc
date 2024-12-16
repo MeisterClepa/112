@@ -18,7 +18,7 @@ theme: /
     
     state:
         q!: Изображение
-        image: https://just-ai.com/wp-content/uploads/2020/02/logo_og-2x-1.png
+        image: https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
         
     state:
         q!: Аудио
